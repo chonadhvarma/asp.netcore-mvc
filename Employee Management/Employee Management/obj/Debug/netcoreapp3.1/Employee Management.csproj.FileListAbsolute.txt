@@ -1,0 +1,20 @@
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.json
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.exe
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.deps.json
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.json
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.dev.json
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.dll
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.pdb
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csprojAssemblyReference.cache
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CoreCompileInputs.cache
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.MvcApplicationPartsAssemblyInfo.cache
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfoInputs.cache
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfo.cs
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cache
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.Manifest.cache
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.xml
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
+F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.genruntimeconfig.cache
