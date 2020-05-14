@@ -18,3 +18,97 @@ F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreap
 F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
 F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
 F:\.NET\ASP.NET CORE\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.genruntimeconfig.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\appsettings.json
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.exe
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.deps.json
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.json
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.dev.json
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.pdb
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csprojAssemblyReference.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfoInputs.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfo.cs
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.Manifest.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.xml
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.genruntimeconfig.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CoreCompileInputs.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.MvcApplicationPartsAssemblyInfo.cache
+F:\.NET\ASP.NET CORE\Bookstore\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CopyComplete
