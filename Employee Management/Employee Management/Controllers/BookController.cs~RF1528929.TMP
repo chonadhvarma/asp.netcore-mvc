@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Employee_Management.Models;
+using Employee_Management.Repository;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Employee_Management.Controllers
+{
+    public class BookController : Controller
+    {
+        private readonly BookRepository br =null;
+        public BookController()
+        {
+            br = new BookRepository();
+        }
+        public List<BookModel> GetAllBooks()
+        {
+            return br.GetAllBooks();
+        }
+        public BookModel GetBook(int id)
+        {
+            return br.GetBookbyId(id);
+        }
+        public List<BookModel> SearchBook(string bookname, string author)
+        {
+            return br.SearchBook(bookname,author);
+        }
+    }
+}

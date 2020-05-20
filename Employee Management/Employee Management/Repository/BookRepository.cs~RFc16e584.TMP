@@ -1,0 +1,35 @@
+﻿using Employee_Management.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Employee_Management.Repository
+{
+    public class BookRepository
+    {
+        public List<BookModel> GetAllBooks()
+        {
+            return DataSource();
+        }
+        public BookModel GetBookbyId(int id)
+        {
+            return DataSource().Where(x => x.id == id).FirstOrDefault();
+        }
+        public List<BookModel> SearchBook(string title, string author)
+        {
+            return DataSource().Where(x => x.bookname.Contains(title) || x.author.Contains(author)).ToList();
+        }
+        private List<BookModel> DataSource()
+        {
+            return new List<BookModel>()
+            {
+                new BookModel(){id=1,bookname="MVC",author="Varma",description="This is description of MVC"},
+                new BookModel(){id=2,bookname="ANGULAR",author="Satish",description="This is description of ANGULAR"},
+                new BookModel(){id=3,bookname=".NET core",author="Chonadh",description="This is description of .NET Core"},
+                new BookModel(){id=4,bookname="ML.NET",author="Palepu",description="This is description of ML.NET"},
+                new BookModel(){id=5,bookname="AI",author="SatishVarma",description="This is description of AI"}
+            };
+        }
+    }
+}
